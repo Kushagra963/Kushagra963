@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushagr Upadhyay
 - 👀 I’m interested in ... Coding (System.out.println("Coding");
 - 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...New projects and sfotwares
+- 💞️ I’m looking to collaborate on ...New projects on java and its framework
 - 📫 How to reach me ...contact me on phone number 7505203851
 
 <!---
